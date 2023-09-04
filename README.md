@@ -29,4 +29,9 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/restaurant-review.git
+   git clone https://github.com/iamcal77/sql-restaurants.git
+   
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Created by [Calvin KIpkirui]
